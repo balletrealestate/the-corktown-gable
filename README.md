@@ -1,5 +1,5 @@
 # the-corktown-gable
-A modern gable house with garage and carriage house apartment inspired by the historic gable homes of Corktown, Detroit.
+A modern gable home with garage and carriage house apartment inspired by the historic gable homes of Corktown, Detroit.
 
 # Creative Commons Attribution
 We hope you will use and remix this design. If you do, please provide attribution using the content below.
