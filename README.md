@@ -1,4 +1,4 @@
-# The Corktown Gable 🏠
+# 🏠 The Corktown Gable 
 
 **An Open-Source Home Design for Detroit.**
 
@@ -30,14 +30,14 @@ Because this home has already been successfully built in Detroit (and has previo
 ### Renderings
 *Visualizing the design intent.*
 
-![House Rendering](./assets/renderings/house-render.jpg)
+![House Rendering](./assets/renderings/house-render.jpeg)
 
 ### The Built Home
 *The final product in Corktown.*
 
-![Front Elevation of Built Home](./assets/photos/front-elevation.jpg)
-![Side Elevation of Built Home](./assets/photos/side-elevation.jpg)
-![Kitchen](./assets/photos/interior-kitchen.jpg)
+![Front Elevation of Built Home](./assets/photos/front-elevation.JPEG)
+![Side Elevation of Built Home](./assets/photos/side-elevation.JPEG)
+![Kitchen](./assets/photos/interior-kitchen.JPEG)
 
 ---
 
