@@ -36,8 +36,8 @@ Because this home has already been successfully built in Detroit (and has previo
 *The final product in Corktown.*
 
 ![Front Elevation of Built Home](./assets/photos/front-elevation.jpg)
-![Interior View](./assets/photos/interior-kitchen.jpg)
-![Carriage House Exterior](./assets/photos/carriage-exterior.jpg)
+![Side Elevation of Built Home](./assets/photos/side-elevation.jpg)
+![Kitchen](./assets/photos/interior-kitchen.jpg)
 
 ---
 
