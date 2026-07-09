@@ -31,7 +31,6 @@ Because this home has already been successfully built in Detroit (and has previo
 *Visualizing the design intent.*
 
 ![House Rendering](./assets/renderings/house-render.jpg)
-![Garage & Carriage House Rendering](./assets/renderings/carriage-render.jpg)
 
 ### The Built Home
 *The final product in Corktown.*
