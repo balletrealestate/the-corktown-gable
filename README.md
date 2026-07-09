@@ -33,7 +33,7 @@ Because this home has already been successfully built in Detroit (and has previo
 ![House Rendering](./assets/renderings/house-render.jpeg)
 
 ### The Built Home
-*The final product in Corktown.*
+*The final product in North Corktown.*
 
 ![Front Elevation of Built Home](./assets/photos/front-elevation.JPEG)
 ![Side Elevation of Built Home](./assets/photos/side-elevation.JPEG)
@@ -60,7 +60,7 @@ We built this specifically to align with the City of Detroit's push for **Pre-ap
 
 1. **Download the PDF Plans:** Grab the latest release from the `/pdfs` folder.
 2. **Site Adaptation:** You will need a local surveyor/engineer to create a site plan mapping this house to your specific Detroit lot.
-3. **Submit to BSEED:** Because this exact structure has already been permitted and built in Corktown, BSEED reviewers have a precedent for approving its structural integrity and code compliance. 
+3. **Submit to BSEED:** Because this exact structure has already been permitted and built in North Corktown, BSEED reviewers have a precedent for approving its structural integrity and code compliance. 
 4. **Build:** Use the upcoming Bill of Materials in our `/specs` folder to get accurate bids from Detroit-based general contractors.
 
 ---
